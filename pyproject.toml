@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "test_pacakge_git_semver"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Stepanov Dmitry <stpnv.dmtry@gmail.com>"]
 
